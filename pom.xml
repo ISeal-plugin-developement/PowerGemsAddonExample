@@ -69,7 +69,7 @@
         <dependency>
             <groupId>com.github.ISeal-plugin-developement</groupId>
             <artifactId>PowerGems</artifactId>
-            <version>3.5.0.0-DEV2-288560daedcbba4eda373398f9c1af52d4f018dd</version>
+            <version>3.5.0.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
